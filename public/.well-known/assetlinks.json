@@ -1,0 +1,10 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.koln.koln-expo-deeplinking",
+      "sha256_cert_fingerprints": ["76:62:77:CD:04:2A:7A:35:6E:A9:0C:05:00:5C:7E:BC:E9:8D:62:F3:92:F5:F3:0E:17:89:40:05:B6:B1:F4:7C"]
+    }
+  }
+]
